@@ -175,7 +175,7 @@ lista_figura_evolucion_lab[[1]]
 lista_figura_evolucion_lab[[2]]
 ```
 
-## Sólidos suspendidos
+## Sólidos suspendidos totales (TSM)
 
 ```{r}
 lista_figura_evolucion_lab[[3]]
@@ -187,7 +187,7 @@ lista_figura_evolucion_lab[[3]]
 lista_figura_evolucion_lab[[4]]
 ```
 
-## Prof. de disco de Secchi
+## Prof. de disco de Secchi (SSD)
 
 ```{r}
 lista_figura_evolucion_lab[[5]]
@@ -212,11 +212,11 @@ Las correlaciones mostradas en la @tbl-corr-lab pueden visualizarse en las sigui
 
 ![](figuras/cond_vs_turb.png)
 
-## Sól. susp. vs Cond.
+## TSM vs Cond.
 
 ![](figuras/cond_vs_sol_sus.png)
 
-## SDD vs Sól. susp.
+## SDD vs TSM
 
 ![](figuras/sol_sus_vs_secchi.png)
 
@@ -224,7 +224,7 @@ Las correlaciones mostradas en la @tbl-corr-lab pueden visualizarse en las sigui
 
 ![](figuras/turb_vs_secchi.png)
 
-## Sól. susp. vs Turb.
+## TSM vs Turb.
 
 ![](figuras/turb_vs_sol_sus.png)
 
